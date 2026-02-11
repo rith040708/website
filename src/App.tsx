@@ -243,7 +243,7 @@ function App() {
         <h1 className="mt-4 text-gray-900 font-semibold text-center text-2xl">LAIFU<br/>Color:Red</h1>
         <p className="text-black">Soccer Goalie Gloves,Football Goalkeeper Gloves for Kids Boys Youth Children Double Wrist Protection Along 4mm Super Grip Palm</p>
         <a href="https://www.amazon.com/gp/aw/d/B09KBMB442/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=e04f69a3ee834476b340f7cbea857b5b&hsa_cr_id=0&qid=1770706819&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_img&pd_rd_w=wxv6T&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=QD0G2BQ613Q2JGR0ECJH&pd_rd_wg=UZzYf&pd_rd_r=dc583ad7-e093-409c-8c79-0dbafa79db35&th=1"target="_blank">
-          <button className="bg-pink-700 hover:bg-pink-300 px-5 py-2 rounded-full mt-5">Buy Now</button>
+          <button className="bg-pink-700 hover:bg-pink-200 px-5 py-2 rounded-full mt-5">Buy Now</button>
         </a>
       </div>
 </div>
